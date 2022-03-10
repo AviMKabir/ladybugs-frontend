@@ -1,0 +1,36 @@
+@media (min-width: 1200px){
+    .container, .container-lg, .container-md, .container-sm, .container-xl {
+        max-width: 1050px;
+    }
+}
+
+.pt-6 {
+    padding-top: 6rem!important;
+}
+
+.btn {
+    width: 140px !important;
+}
+
+.btn-solid {
+    color: #fff;
+    background-color: #F85254;
+    border-color: #F85254;
+}
+
+.btn-solid:hover {
+    color: #000;
+}
+
+.btn-open {
+    color: #000;
+    background-color: #fff;
+    border-color: #F85254;
+}
+
+.btn-open:hover {
+    color: #fff;
+    background-color: #F85254;
+    border-color: #F85254;   
+}
+
